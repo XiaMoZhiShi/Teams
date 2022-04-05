@@ -42,4 +42,4 @@ execute if score #useJson nife_stats matches 0 run team modify pfx_127 prefix ["
 
 team add pfx_kinopico
 execute if score #useJson nife_stats matches 1 run team modify pfx_kinopico prefix [" ", {"text":"1", "font": "xmzs:badge", "color": "white", "italic": false} ," "]
-execute if score #useJson nife_stats matches 0 run team modify pfx_kinopico prefix [" ", {"text":"\uE3F7", "color": "white", "italic": false} ," "]
+execute if score #useJson nife_stats matches 0 run team modify pfx_kinopico prefix [" ", {"text":"\uE3F8", "color": "white", "italic": false} ," "]
