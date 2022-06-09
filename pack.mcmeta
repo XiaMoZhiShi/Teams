@@ -1,6 +1,6 @@
 {
     "pack": {
         "description": "前缀相关数据包",
-        "pack_format": 8
+        "pack_format": 10
     }
 }
