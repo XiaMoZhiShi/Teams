@@ -18,4 +18,4 @@ team join pfx_ningxue @s[name="EXzombiEmu"]
 
 team join pfx_pardofelis @s[name="Icalingua"]
 
-#team join pfx_bkcr @s[name="BakaCrystal"]
+team join pfx_bkcr @s[name="BakaCrystal"]
