@@ -25,6 +25,6 @@ execute if entity @s[tag=__xteams_brands_persona_mu] run tellraw @s     {"transl
 execute if entity @s[tag=__xteams_brands_newDT] run tellraw @s          {"translate":"text.hub.hint", "color":"#dddddd", "clickEvent": { "action": "run_command", "value": "/trigger xteams_choise set 5" }, "hoverEvent": { "action": "show_text", "value": "点此应用" }, "with":["\uE344", ["", {"text":"W", "font":"xmzs:badge"}, " 夏沫开发团队（新版）"]]}
 
 #Builder
-execute if entity @s[tag=__xteams_brands_builder] run tellraw @s        {"translate":"text.hub.hint", "color":"#dddddd", "clickEvent": { "action": "run_command", "value": "/trigger xteams_choise set 6" }, "hoverEvent": { "action": "show_text", "value": "点此应用" }, "with":["\uE344", ["", {"text":"Q", "font":"xmzs:badge"}, " 建造者（参与建设服务器设施）"]]}
+execute if entity @s[tag=__xteams_brands_builder] run tellraw @s        {"translate":"text.hub.hint", "color":"#dddddd", "clickEvent": { "action": "run_command", "value": "/trigger xteams_choise set 6" }, "hoverEvent": { "action": "show_text", "value": "点此应用" }, "with":["\uE344", ["", {"text":"Q", "font":"xmzs:badge"}, " 建造者（为服务器建设作出了较大贡献）"]]}
 
 #endregion
