@@ -31,5 +31,6 @@
 #endregion 早期开发测试用的东西
 
 #62
-team add pfx_builder
-team modify pfx_builder prefix {"translate":"%1$s%3427655$s", "with":["", {"text":"","extra":[" ", [{"translate":"space.-5", "font":"space:default", "italic": false, "with":[{"text":"X", "font":"xmzs:badge"}]}, {"translate":"space.-57", "font":"space:default"}] ," "]}]}
+team add xteam_brand_builder
+team modify xteam_brand_builder prefix {"translate":"%1$s%3427655$s", "with":["", {"text":"","extra":[" ", [{"translate":"space.-5", "font":"space:default", "italic": false, "with":[{"text":"X", "font":"xmzs:badge"}]}, {"translate":"space.-57", "font":"space:default"}] ," "]}]}
+#declare team xteam_brand_builder Builder铭牌
