@@ -16,3 +16,5 @@ tellraw @s {"translate":"text.hub.hint", "color":"#dddddd", "with":["\uE344", " 
 tellraw @s {"translate":"text.hub.hint", "color":"#dddddd", "with":["\uE344", [{"text":"当前样式预览："}, {"selector":"@s"}]]}
 
 scoreboard players reset @s xteams_menu
+
+scoreboard players enable @s xteams_menu
