@@ -7,6 +7,8 @@ execute if entity @s[name="EXzombiEmu"] run function teams:badges/give/legacy_de
 #Patch: 1.19服务器
 execute if entity @s[name="Emilia_CC"] run function teams:badges/give/builder
 execute if entity @s[name="OWhiteMuO"] run function teams:badges/give/builder
+execute if entity @s[name="12727337483"] run function teams:badges/give/builder
+execute if entity @s[name="VarelySablin1975"] run function teams:badges/give/builder
 
 tag @s remove teams_autoJoinProcessed
 tag @s add __xteams_auto_branded
